@@ -40,25 +40,92 @@ When you click on the probability percentage for a certain bet, a page will open
 
 When you click on the event name of the bet (for the `Circus` bookmaker), you will be redirected to the event on `Circus`es website. There you should search for the exact bet, verify that the odds are indeed the same as advertised, and then place your bet. For the amount you bet, use the Kelly criterion as explained earlier.
 
-### Configuring the filters
+## Configuring the filters
 Previously, we had set the probability and overvalue to 0, to make sure there were bets available for we could continue the guide. It is however advised that we tweak these a bit.
 
-#### Probability
+### Probability
 In the long term for `+EV` bets, your probability can be set to 0 and in theory it does not matter. However if you are starting out and you place 10 bets that each have a 1% chance of winning, you will very likely just lose them all, even if they are all `+EV`. So just psychologically, it is interesting to set the minimum probability to `50%` when starting out.
 
-#### Overvalue
+### Overvalue
 This is the extra margin that the bookmaker odds give you over the fair odds.
 Anything over 0% is `+EV`, but given that you only have a certain amount of money to invest, most people set this to at least `3%`. It is also advised to sort by overvalue, so you make your most valuable bets first, and move to less valuable bets only with money left over.
 
-#### Minimum odds for calculation
+### Minimum odds for calculation
 This determines how many bookmakers have to offer the bet in order to calculate the fair odds. The more bookmakers there are, it is likely that the calculation will be more accurate. Advised to set to `50` to start out, but can be lowered if you're having trouble finding bets.
 
-#### Sports
+### Sports
 This determines for which sports the bets are shown. It is advised to disable the `Virtual sports` as well as the `E-sports` that correspond with a real sport (like `E-Football`). This is because surebet.com will sometimes mix up events across those categories. (Personally I also suspect some bookmakers to take advantage of this and purposfully schedule their virtual sport along with an E-Sport so people accidentally bet on the wrong one.) If you want to bet on this anyway, carefully check the odd details across the different bookmakers.
 
-#### Event time
+### Event time
 This determines how far out you want to place your bets. With a very large bankroll, you can set this as far out as you want, as you will have the money to make any bets you want. 
 
 With a smaller bankroll however, it is advised to place bets that will resolve quite quickly. If you place a bunch of bets on events that resolve next week, you have no money left to place event in the meanwhile, and your money is not 'working'. So while 10% bet that resolves in 7 days is good, it is far more interesting to place 7 times an 8% bet that resolves the next day each time. So start with `2 days` on a smaller bankroll.
 
 **Betting volume really is the name of the game.** Notice that your total expected profit is `Volume * overvalue percentage`. So if during a week you can bet your 1.000 completely every day, your volume will be 7.000. Sometimes you can even try to go faster with this, and bet your money more than once a day.
+
+## Bookmakers
+When selecting the bookmakers, you will notice that surebet.com does not list that many known Belgian bookmakers. However our Belgian bookmakers are often part of a multinational or use the same software, meaning that you can use other bookmakers to get the odds that will be the same on a different site. 
+([List of officialy licensed sportsbooks](https://www.gamingcommission.be/en/gaming-commission/legal-games-of-chance/betting-shops-online) )
+
+|Surebet bookmaker|Belgian bookmaker|Notes|
+|---|---|---|
+|Circus BE|Circus-sport.be|Gaming1 software|
+||blitzbet.be|Gaming1 software|
+|Goldenvegas BE|goldenvegas-sport.be|Gaming1 software|
+|Bet777|bet777.be|Gaming1 software|
+|| 
+|Bingoal|bingoalsport.be|Kambi software|
+||unibetsports.be|Kambi software|
+||scooore.be|Kambi software|
+|| 
+|Campeonbet|starcasinosport.be|Altenar software|
+||goldenpalacesports.be|Altenar software|
+|| 
+|Eurobet|ladbrokes.be||
+|BetFirst (BE)|betfirst.dhnet.be||
+|1xbet|vivatbet.be||
+|Superbet|napoleonsports.be||
+|Betcenter (BE)|betcenter.be||
+|Zebet (BE)|zebet.be||
+|Meridian (BE)|meridianbet.be||
+|Bwin (BE)|bwin.be||
+|?|magicbetting.be|Exists but not found|
+|?|eurotierce.be|Not found|
+|?|bet90.be|Not found|
+|?|betanosports.be|Not found|
+|StanleyBet (IT)|stanleybet.be|Untested|
+
+## Remarks
+
+
+### Getting limited
+The sportbooks obviously do not want winners on their site. It will take some time for them to confirm that you are indeed a winning player, but once they do, they will limit your action. Meaning that you can bet either lower stakes only, or nothing at all. At this point you should withdraw your money and move to the next bookmaker. 
+
+Also note that some bookmakers that run the same software, will likely share your player profile between their different sites behind the scenes. Meaning if you are limited on for example `Circus`, you may also become flagged on `blitzbet` and get limited there faster.
+
+Therefor it is advised that you take your first small steps on an independant bookmaker (not linked to any other ones) and familiarize yourself with the betting procedures. Once you get limited there, you can move to a different bookmaker and you will be a completely unknown person there.
+
+Later on in your career, with a large bankroll, it may be a strategy that you hit and run all bookmakers of the same software at the same time. This way you can get your bets in at the various sites together, before they are able to flag you as a winner. Of course you still need to play within your bankroll means.
+
+### Opening an account, deposit, withdraw, KYC
+To open an account on any bookmaker is very easy. Usually in a couple of clicks along with your itsme. Also depositing is insanely easy with a lot of options. They want to get your money as fast as possible. Notice that due to Belgian law, you are by default only allowed to deposited 200 euro per week. If your bankroll is bigger and you want to deposit more, you can ask to have your limit increased (this will typically be linked on the deposit page). There is a couple days wait period for this. If you plan on making big bets, it may be advised that your first get your big deposit in and then place the big bets. Rather than making some small bets with the 200 in the meanwhile, because they may already be help the bookmaker in determining that you are a winning player and getting you limited.
+
+When withdrawing your winnings however, a lot of the bookmakers will make you jump through many hoops. Even they already have your ID through itsme, they will try to delay you by asking for selfies, bank statements, utility bills etc (called Know Your Customer or KYC). This is a tactic to attempt that you don't do it, so they can just keep your money. So be prepared to do this and stick to it, even though it is bit annoying.
+
+### Fake / duplicate accounts, family member accounts, ...
+It is strongly advised not to use a fake account. For any substantial amount you win, they will probably do a thorough KYC check and find you out. They may not pay out nor refund your initial deposits.
+
+Similarly for using an account of a family member: most bookmakers say in their Terms of Service that there can only be one account per household. So they may be able to fingerprint your device, use your ip-address, ... .
+
+Opening these accounts and placing bets won't be an issue, but you may run into serious issues when trying to cash out.
+
+### Unlicensed bookmakers / crypto bookmakers
+
+### Bet choice (betting the same outcome)
+#### Not too little
+On most bets, there is always a limit of how much you can bet. If you want to bet 500 on `team A` winning, but you are only allowed to bet 300, you still have 200 left. Perhaps surebet also suggest you can bet on `team A or a draw`, and you can bet the remaining 200 there. This way you are betting closely related events, but spreading them.
+
+#### Not too much
+Inversely, if you made your desired 100 bet on `team A`, it may not be wise to also bet 100 on `team A or a draw`, because they are very closely related, and you are pretty much betting 200 on `team A`, while you only wanted 100 in exposure. (Not exactly correct of course, but to illustrate the point).
+
+On the other hand, if within the same match you want to bet on who wins, and who has the most yellow cards, and the most offsides, these events are less closely related so can be deemed to be not cummulative in exposure.

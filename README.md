@@ -67,28 +67,28 @@ With a smaller bankroll however, it is advised to place bets that will resolve q
 When selecting the bookmakers, you will notice that surebet.com does not list that many known Belgian bookmakers. However our Belgian bookmakers are often part of a multinational or use the same software, meaning that you can use other bookmakers to get the odds that will be the same on a different site. 
 ([List of officialy licensed sportsbooks](https://www.gamingcommission.be/en/gaming-commission/legal-games-of-chance/betting-shops-online) )
 
-|Surebet bookmaker|Belgian bookmaker|Notes|
-|---|---|---|
-|Circus BE|Circus-sport.be|Gaming1 software|
-||blitzbet.be|Gaming1 software|
-|Goldenvegas BE|goldenvegas-sport.be|Gaming1 software|
-|Bet777|bet777.be|Gaming1 software|
+|Surebet bookmaker|Belgian bookmaker|Notes|# valuebets|Limited|Rating|
+|---|---|---|---|---|---|
+|Circus BE|Circus-sport.be|Gaming1 software|Few per day|Weeks|⭐⭐⭐|
+||blitzbet.be|Gaming1 software|Few per day|Weeks|⭐⭐⭐|
+|Goldenvegas BE|goldenvegas-sport.be|Gaming1 software|Few per day|Weeks|⭐⭐⭐|
+|Bet777|bet777.be|Gaming1 software|Few per day|Days|⭐⭐|
 || 
-|Bingoal|bingoalsport.be|Kambi software|
-||unibetsports.be|Kambi software|
-||scooore.be|Kambi software|
+|Bingoal|bingoalsport.be|Kambi software|Plenty|weeks|⭐⭐⭐⭐|
+||unibetsports.be|Kambi software|Plenty|weeks|⭐⭐⭐⭐|
+||scooore.be|Kambi software|Plenty|weeks|⭐⭐⭐⭐|
 || 
-|Campeonbet|starcasinosport.be|Altenar software|
-||goldenpalacesports.be|Altenar software|
+|Campeonbet|starcasinosport.be|Altenar software|Plenty|weeks|⭐⭐⭐⭐|
+||goldenpalacesports.be|Altenar software|Plenty|days|⭐⭐⭐|
 || 
-|Eurobet|ladbrokes.be||
-|BetFirst (BE)|betfirst.dhnet.be||
-|1xbet|vivatbet.be||
-|Superbet|napoleonsports.be||
-|Betcenter (BE)|betcenter.be||
-|Zebet (BE)|zebet.be||
-|Meridian (BE)|meridianbet.be||
-|Bwin (BE)|bwin.be||
+|Eurobet|ladbrokes.be||Few a day|weeks|⭐⭐⭐|
+|BetFirst (BE)|betfirst.dhnet.be||Huge|weeks|⭐⭐⭐⭐⭐|
+|1xbet|vivatbet.be||Few|days|⭐ [avoid](#vivatbet)|
+|Superbet|napoleonsports.be||Plenty|days|⭐⭐⭐|
+|Betcenter (BE)|betcenter.be||Plenty|days|⭐⭐⭐|
+|Zebet (BE)|zebet.be||Plenty|days|⭐⭐⭐|
+|Meridian (BE)|meridianbet.be||Plenty|days|⭐⭐⭐|
+|Bwin (BE)|bwin.be||Plenty|days|⭐⭐⭐|
 |?|magicbetting.be|Exists but not found|
 |?|eurotierce.be|Not found|
 |?|bet90.be|Not found|
@@ -120,6 +120,17 @@ Similarly for using an account of a family member: most bookmakers say in their 
 Opening these accounts and placing bets won't be an issue, but you may run into serious issues when trying to cash out.
 
 ### Unlicensed bookmakers / crypto bookmakers
+**I am not a lawyer, not legal advice**
+
+With the all the above bookmakers, you are trusting your money with a Belgian company that is licensed with the Belgian Gaming Commission. If anything goes seriously wrong, you can go to the police, the [Consumer Mediation Service](https://consumerombudsman.be/en) or contact a lawyer etc and things may get resolved.
+
+However if you for example use a VPN and play on a legit USA bookmaker, you don't have those same protections. Also that bookmaker may also just refuse to payout based on breaking their ToS. You would have very little recourse. Aside from that, it is also illegal to do that from a Belgian law point of view.
+
+The same goes for crypto bookmakers that are accessible without VPN. Things may go well, but you have little recourse when they don't.
+
+This is an official [list of sites that are banned in Belgium](https://gamingcommission.be/en/gaming-commission/illegal-games-of-chance/list-of-illegal-gambling-sites). Furthermore the Gaming Commission [states](https://gamingcommission.be/en/gaming-commission/illegal-games-of-chance) that any other site may also be illegal, unless explicitally whitelisted.
+
+In short, don't bother with it, there are plently of licensed Belgian sites where you can take a nice profit.
 
 ### Bet choice (betting the same outcome)
 #### Not too little
@@ -129,3 +140,9 @@ On most bets, there is always a limit of how much you can bet. If you want to be
 Inversely, if you made your desired 100 bet on `team A`, it may not be wise to also bet 100 on `team A or a draw`, because they are very closely related, and you are pretty much betting 200 on `team A`, while you only wanted 100 in exposure. (Not exactly correct of course, but to illustrate the point).
 
 On the other hand, if within the same match you want to bet on who wins, and who has the most yellow cards, and the most offsides, these events are less closely related so can be deemed to be not cummulative in exposure.
+
+
+### Placing a bet
+Some bookmakers try to mess around with the odds they give you. When placing the bet, it may be selected by default to 'accept any odds', and they will lower the odds when accepting your bet, which make make it `-EV`. Watch out for this. Some bookmakers will even always reset your choice to 'accept any odds', even if you changed it before. Always use 'accept higher odds only'.
+
+### Vivatbet

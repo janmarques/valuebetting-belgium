@@ -83,13 +83,13 @@ When selecting the bookmakers, you will notice that surebet.com does not list th
 || 
 |Eurobet|ladbrokes.be||Few a day|weeks|⭐⭐⭐|
 |BetFirst (BE)|betfirst.dhnet.be||Huge|weeks|⭐⭐⭐⭐⭐|
-|1xbet|vivatbet.be||Few|days|⭐ [avoid](#vivatbet)|
-|Superbet|napoleonsports.be||Plenty|days|⭐⭐⭐|
-|Betcenter (BE)|betcenter.be||Plenty|days|⭐⭐⭐|
-|Zebet (BE)|zebet.be||Plenty|days|⭐⭐⭐|
-|Meridian (BE)|meridianbet.be||Plenty|days|⭐⭐⭐|
-|Bwin (BE)|bwin.be||Plenty|days|⭐⭐⭐|
-|?|magicbetting.be|Exists but not found|
+|1xbet|vivatbet.be||Few|hours|⭐ [❗❗❗](#vivatbet)|
+|Superbet|napoleonsports.be||Huge|weeks|⭐⭐⭐ [❗](#napoleon)|
+|Betcenter (BE)|betcenter.be||Plenty|days|⭐⭐|
+|Zebet (BE)|zebet.be||Few|(not)|⭐⭐|
+|Meridian (BE)|meridianbet.be||Plenty|days|⭐⭐[❗](#meridian)|
+|Bwin (BE)|bwin.be||Plenty|hours|⭐⭐|
+|?|magicbetting.be|Exists but not found|?|days|⭐⭐|
 |?|eurotierce.be|Not found|
 |?|bet90.be|Not found|
 |?|betanosports.be|Not found|
@@ -141,8 +141,19 @@ Inversely, if you made your desired 100 bet on `team A`, it may not be wise to a
 
 On the other hand, if within the same match you want to bet on who wins, and who has the most yellow cards, and the most offsides, these events are less closely related so can be deemed to be not cummulative in exposure.
 
+### Betting on live events
+Surebet.com is not that great for betting on live events. The odds can change very quickly and may be outdated and not accurate. It may be advisable not to bet on those events.
 
 ### Placing a bet
 Some bookmakers try to mess around with the odds they give you. When placing the bet, it may be selected by default to 'accept any odds', and they will lower the odds when accepting your bet, which make make it `-EV`. Watch out for this. Some bookmakers will even always reset your choice to 'accept any odds', even if you changed it before. Always use 'accept higher odds only'.
 
 ### Vivatbet
+In my personal experience, they limit instantly and have extra tedious KYC. Would not recommend.
+
+### Napoleon
+They have a huge amount of `+EV` bets. Even after getting limited, you can still bet small amounts that may make it worth it.
+
+In my personal experience however, the locked my account for over a month for KYC purposes, with very unclear communication, ... . It was eventually unlocked, but a very unpleasant experience nonetheless.
+
+### Meridian
+In my personal experience, they use scummy tactics with the odds and limit very fast. Would not recommend.

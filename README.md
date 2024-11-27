@@ -36,7 +36,7 @@ On the valuebets page on the right, you can see a bunch of filters. Let's start 
 
 Now you should see a whole list of all the bets that `Circus` offers that are actually `+EV`. 
 
-When you click on the probability percentage for a certain bet, a page will open that shows all the other bookmakers that have that same bet, with their own odds. This is a nice way to get a closer feel of how the system works behind the scenes (gathering the average odds). ***Sometimes surebet.com will also make mistakes itself, and compare multiple odds that are not actually of the same event. That's why it is a good idea to check this page and manually verify that the event titles actually match and the same bets are being compared.***
+When you click on the probability percentage for a certain bet, a page will open that shows all the other bookmakers that have that same bet, with their own odds. This is a nice way to get a closer feel of how the system works behind the scenes (gathering the average odds). **Sometimes surebet.com will also make mistakes itself, and compare multiple odds that are not actually of the same event. That's why it is a good idea to check this page and manually verify that the event titles actually match and the same bets are being compared.**
 
 When you click on the event name of the bet (for the `Circus` bookmaker), you will be redirected to the event on `Circus`es website. There you should search for the exact bet, verify that the odds are indeed the same as advertised, and then place your bet. For the amount you bet, use the Kelly criterion as explained earlier.
 
@@ -55,3 +55,10 @@ This determines how many bookmakers have to offer the bet in order to calculate 
 
 #### Sports
 This determines for which sports the bets are shown. It is advised to disable the `Virtual sports` as well as the `E-sports` that correspond with a real sport (like `E-Football`). This is because surebet.com will sometimes mix up events across those categories. (Personally I also suspect some bookmakers to take advantage of this and purposfully schedule their virtual sport along with an E-Sport so people accidentally bet on the wrong one.) If you want to bet on this anyway, carefully check the odd details across the different bookmakers.
+
+#### Event time
+This determines how far out you want to place your bets. With a very large bankroll, you can set this as far out as you want, as you will have the money to make any bets you want. 
+
+With a smaller bankroll however, it is advised to place bets that will resolve quite quickly. If you place a bunch of bets on events that resolve next week, you have no money left to place event in the meanwhile, and your money is not 'working'. So while 10% bet that resolves in 7 days is good, it is far more interesting to place 7 times an 8% bet that resolves the next day each time. So start with `2 days` on a smaller bankroll.
+
+**Betting volume really is the name of the game.** Notice that your total expected profit is `Volume * overvalue percentage`. So if during a week you can bet your 1.000 completely every day, your volume will be 7.000. Sometimes you can even try to go faster with this, and bet your money more than once a day.

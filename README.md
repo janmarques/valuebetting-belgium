@@ -52,3 +52,6 @@ Anything over 0% is `+EV`, but given that you only have a certain amount of mone
 
 #### Minimum odds for calculation
 This determines how many bookmakers have to offer the bet in order to calculate the fair odds. The more bookmakers there are, it is likely that the calculation will be more accurate. Advised to set to `50` to start out, but can be lowered if you're having trouble finding bets.
+
+#### Sports
+This determines for which sports the bets are shown. It is advised to disable the `Virtual sports` as well as the `E-sports` that correspond with a real sport (like `E-Football`). This is because surebet.com will sometimes mix up events across those categories. (Personally I also suspect some bookmakers to take advantage of this and purposfully schedule their virtual sport along with an E-Sport so people accidentally bet on the wrong one.) If you want to bet on this anyway, carefully check the odd details across the different bookmakers.

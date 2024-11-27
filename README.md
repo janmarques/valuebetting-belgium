@@ -1,4 +1,4 @@
-# +EV Value Sports Betting in Belgium
+# +EV Value Sports Betting in Belgium [☕](https://ko-fi.com/janmarques)
 
 This document outlines some basics and lessons learned to get you started successfully sportsbetting using licensed Belgian sportsbooks.
 
@@ -41,7 +41,7 @@ When you click on the probability percentage for a certain bet, a page will open
 When you click on the event name of the bet (for the `Circus` bookmaker), you will be redirected to the event on `Circus`es website. There you should search for the exact bet, verify that the odds are indeed the same as advertised, and then place your bet. For the amount you bet, use the Kelly criterion as explained earlier.
 
 ## Configuring the filters
-Previously, we had set the probability and overvalue to 0, to make sure there were bets available for we could continue the guide. It is however advised that we tweak these a bit.
+Previously, we had set the probability and overvalue to 0, to make sure there were bets available so we could continue the guide. It is however advised that we tweak these a bit.
 
 ### Probability
 In the long term for `+EV` bets, your probability can be set to 0 and in theory it does not matter. However if you are starting out and you place 10 bets that each have a 1% chance of winning, you will very likely just lose them all, even if they are all `+EV`. So just psychologically, it is interesting to set the minimum probability to `50%` when starting out.
@@ -108,7 +108,7 @@ Therefor it is advised that you take your first small steps on an independant bo
 Later on in your career, with a large bankroll, it may be a strategy that you hit and run all bookmakers of the same software at the same time. This way you can get your bets in at the various sites together, before they are able to flag you as a winner. Of course you still need to play within your bankroll means.
 
 ### Opening an account, deposit, withdraw, KYC
-To open an account on any bookmaker is very easy. Usually in a couple of clicks along with your itsme. Also depositing is insanely easy with a lot of options. They want to get your money as fast as possible. Notice that due to Belgian law, you are by default only allowed to deposited 200 euro per week. If your bankroll is bigger and you want to deposit more, you can ask to have your limit increased (this will typically be linked on the deposit page). There is a couple days wait period for this. If you plan on making big bets, it may be advised that your first get your big deposit in and then place the big bets. Rather than making some small bets with the 200 in the meanwhile, because they may already be help the bookmaker in determining that you are a winning player and getting you limited.
+To open an account on any bookmaker is very easy. Usually in a couple of clicks along with your itsme. Also depositing is insanely easy with a lot of options. They want to get your money as fast as possible. Notice that due to Belgian law, you are by default only allowed to deposited 200 euro per week. If your bankroll is bigger and you want to deposit more, you can ask to have your limit increased (this will typically be linked on the deposit page). There is a couple days wait period for this. If you plan on making big bets, it may be advised that you first get your big deposit in, and then place the big bets. Rather than making some small bets with the 200 in the meanwhile, because they may already be help the bookmaker in determining that you are a winning player and getting you limited.
 
 When withdrawing your winnings however, a lot of the bookmakers will make you jump through many hoops. Even they already have your ID through itsme, they will try to delay you by asking for selfies, bank statements, utility bills etc (called Know Your Customer or KYC). This is a tactic to attempt that you don't do it, so they can just keep your money. So be prepared to do this and stick to it, even though it is bit annoying.
 
@@ -142,10 +142,21 @@ Inversely, if you made your desired 100 bet on `team A`, it may not be wise to a
 On the other hand, if within the same match you want to bet on who wins, and who has the most yellow cards, and the most offsides, these events are less closely related so can be deemed to be not cummulative in exposure.
 
 ### Betting on live events
-Surebet.com is not that great for betting on live events. The odds can change very quickly and may be outdated and not accurate. It may be advisable not to bet on those events.
+Surebet.com is not that great for betting on live events. The odds can change very quickly and may be outdated and not accurate. It may be advisable not to bet on those events when starting out.
 
 ### Placing a bet
 Some bookmakers try to mess around with the odds they give you. When placing the bet, it may be selected by default to 'accept any odds', and they will lower the odds when accepting your bet, which make make it `-EV`. Watch out for this. Some bookmakers will even always reset your choice to 'accept any odds', even if you changed it before. Always use 'accept higher odds only'.
+
+### Tracking
+Carefully track exactly how much you deposit and withdraw on each site. Also track which bets you place and whether they win/lose. Excel is a good tool.
+
+### Gambling / psychology / losing streaks / ...
+No one likes to hear a preach, but here goes... Only bet on the bets that are suggested to you. There will be winning and losing days or even consecutive days. Stick to the bankroll you allocated. Make sure to use the actual bankroll amount that is left when calculating the bet sizing.
+
+## Bookmaker experiences
+In the earlier table, you can find which bookmakers there are. They all vary in the amount of bets you can make there. Most of the were in my personal experience totally above board and gave no issues with KYC / withdrawing after a couple days of delay tactics. 
+
+Exceptions in this regards are the following bookmakers, where extra caution is advised or perhaps avoided entirely.
 
 ### Vivatbet
 In my personal experience, they limit instantly and have extra tedious KYC. Would not recommend.
@@ -157,3 +168,10 @@ In my personal experience however, the locked my account for over a month for KY
 
 ### Meridian
 In my personal experience, they use scummy tactics with the odds and limit very fast. Would not recommend.
+
+## Closing thoughts
+Good luck everyone!
+
+If you have edit suggestions for this document, you can open a pull request.
+
+If you appreciated this document and want to send a tip, you can do so through [☕](https://ko-fi.com/janmarques)

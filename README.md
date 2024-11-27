@@ -83,7 +83,7 @@ When selecting the bookmakers, you will notice that surebet.com does not list th
 || 
 |Eurobet|ladbrokes.be||Few a day|weeks|⭐⭐⭐|
 |BetFirst (BE)|betfirst.dhnet.be||Huge|weeks|⭐⭐⭐⭐⭐|
-|1xbet|vivatbet.be||Few|hours|⭐ [❗❗❗](#vivatbet)|
+|1xbet|vivatbet.be||Few|hours|⭐ [❗](#vivatbet)|
 |Superbet|napoleonsports.be||Huge|weeks|⭐⭐⭐ [❗](#napoleon)|
 |Betcenter (BE)|betcenter.be||Plenty|days|⭐⭐|
 |Zebet (BE)|zebet.be||Few|(not)|⭐⭐|

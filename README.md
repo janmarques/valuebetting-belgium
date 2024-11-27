@@ -95,9 +95,24 @@ When selecting the bookmakers, you will notice that surebet.com does not list th
 |?|betanosports.be|Not found|
 |StanleyBet (IT)|stanleybet.be|Untested|
 
+
+## Bookmaker experiences
+In the earlier table, you can find which bookmakers there are. They all vary in the amount of bets you can make there. Most of the were in my personal experience totally above board and gave no issues with KYC / withdrawing after a couple days of delay tactics. 
+
+Exceptions in this regards are the following bookmakers, where extra caution is advised or perhaps avoided entirely.
+
+### Vivatbet
+In my personal experience, they limit instantly and have extra tedious KYC. Would not recommend.
+
+### Napoleon
+They have a huge amount of `+EV` bets. Even after getting limited, you can still bet small amounts that may make it worth it.
+
+In my personal experience however, the locked my account for over a month for KYC purposes, with very unclear communication, ... . It was eventually unlocked, but a very unpleasant experience nonetheless.
+
+### Meridian
+In my personal experience, they use scummy tactics with the odds and limit very fast. Would not recommend.
+
 ## Remarks
-
-
 ### Getting limited
 The sportbooks obviously do not want winners on their site. It will take some time for them to confirm that you are indeed a winning player, but once they do, they will limit your action. Meaning that you can bet either lower stakes only, or nothing at all. At this point you should withdraw your money and move to the next bookmaker. 
 
@@ -147,27 +162,11 @@ Surebet.com is not that great for betting on live events. The odds can change ve
 ### Placing a bet
 Some bookmakers try to mess around with the odds they give you. When placing the bet, it may be selected by default to 'accept any odds', and they will lower the odds when accepting your bet, which make make it `-EV`. Watch out for this. Some bookmakers will even always reset your choice to 'accept any odds', even if you changed it before. Always use 'accept higher odds only'.
 
-### Tracking
-Carefully track exactly how much you deposit and withdraw on each site. Also track which bets you place and whether they win/lose. Excel is a good tool.
-
 ### Gambling / psychology / losing streaks / ...
 No one likes to hear a preach, but here goes... Only bet on the bets that are suggested to you. There will be winning and losing days or even consecutive days. Stick to the bankroll you allocated. Make sure to use the actual bankroll amount that is left when calculating the bet sizing.
 
-## Bookmaker experiences
-In the earlier table, you can find which bookmakers there are. They all vary in the amount of bets you can make there. Most of the were in my personal experience totally above board and gave no issues with KYC / withdrawing after a couple days of delay tactics. 
-
-Exceptions in this regards are the following bookmakers, where extra caution is advised or perhaps avoided entirely.
-
-### Vivatbet
-In my personal experience, they limit instantly and have extra tedious KYC. Would not recommend.
-
-### Napoleon
-They have a huge amount of `+EV` bets. Even after getting limited, you can still bet small amounts that may make it worth it.
-
-In my personal experience however, the locked my account for over a month for KYC purposes, with very unclear communication, ... . It was eventually unlocked, but a very unpleasant experience nonetheless.
-
-### Meridian
-In my personal experience, they use scummy tactics with the odds and limit very fast. Would not recommend.
+### Tracking
+Carefully track exactly how much you deposit and withdraw on each site. Also track which bets you place and whether they win/lose. Excel is a good tool.
 
 ## Closing thoughts
 Good luck everyone!

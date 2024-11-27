@@ -29,4 +29,26 @@ Let's use `Paul vs Tyson` as an example. There are 100s of bookmakers around the
 Now all that is left, is finding a bookmaker that will pay out more than what the probability dictates. Say that Unibet offers 1.8 odds on Paul winning. They are greatly underestimating that Paul would win. So they would pay out 180 euro instead of the 150 euro that the average bookmaker would. More importantly, it is also greater than the 'fair' price where you take away the bookmarker margin, which would payout 160 euro. This 20 euro difference between the fair price and the price of the bookmaker you found is where the `+EV` lies. While of course you can still easily lose this bet, if you place many similar of these bets you should be expected to win.
 
 ## Finding `+EV` sportsbets
-Now, you have better things to do than to check all those 100s bookmakers yourself, calculate the averages, etc... . This is where a service like [surebet.com](https://en.surebet.com/valuebets) comes in. They have real-time access to all kind of odds across very many bookmakers. Based on that information, they can calculate the fair prices and single out the bookmakers and odds that are `+EV`. Best thing is that this site is entirely free for now.
+Now, you have better things to do than to check all those 100s bookmakers yourself, calculate the averages, etc... . This is where a service like [surebet.com](https://en.surebet.com/valuebets) comes in. They have real-time access to all kind of odds across very many bookmakers. Based on that information, they can calculate the fair prices and single out the bookmakers and odds that are `+EV`. Best thing is that this site is entirely free for now. So go ahead and create an account there.
+
+### Using surebets.com
+On the valuebets page on the right, you can see a bunch of filters. Let's start out by picking our bookmaker. When the popup is open, on the bottom right you can uncheck all the bookmakers at once. Then search for `Circus (BE)` as an example, because this will work out of the box. Put the Probability at 0 and the Overvalue at 0 as well.
+
+Now you should see a whole list of all the bets that `Circus` offers that are actually `+EV`. 
+
+When you click on the probability percentage for a certain bet, a page will open that shows all the other bookmakers that have that same bet, with their own odds. This is a nice way to get a closer feel of how the system works behind the scenes (gathering the average odds). ***Sometimes surebet.com will also make mistakes itself, and compare multiple odds that are not actually of the same event. That's why it is a good idea to check this page and manually verify that the event titles actually match and the same bets are being compared.***
+
+When you click on the event name of the bet (for the `Circus` bookmaker), you will be redirected to the event on `Circus`es website. There you should search for the exact bet, verify that the odds are indeed the same as advertised, and then place your bet. For the amount you bet, use the Kelly criterion as explained earlier.
+
+### Configuring the filters
+Previously, we had set the probability and overvalue to 0, to make sure there were bets available for we could continue the guide. It is however advised that we tweak these a bit.
+
+#### Probability
+In the long term for `+EV` bets, your probability can be set to 0 and in theory it does not matter. However if you are starting out and you place 10 bets that each have a 1% chance of winning, you will very likely just lose them all, even if they are all `+EV`. So just psychologically, it is interesting to set the minimum probability to `50%` when starting out.
+
+#### Overvalue
+This is the extra margin that the bookmaker odds give you over the fair odds.
+Anything over 0% is `+EV`, but given that you only have a certain amount of money to invest, most people set this to at least `3%`. It is also advised to sort by overvalue, so you make your most valuable bets first, and move to less valuable bets only with money left over.
+
+#### Minimum odds for calculation
+This determines how many bookmakers have to offer the bet in order to calculate the fair odds. The more bookmakers there are, it is likely that the calculation will be more accurate. Advised to set to `50` to start out, but can be lowered if you're having trouble finding bets.
